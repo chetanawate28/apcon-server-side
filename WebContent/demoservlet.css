@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+.login{
+			
+}
+
+.inputText{	
+	margin:5px;
+}
+.loginButton{
+	margin-top: 5px;
+margin-left: 70px;
+width: 80px;
+}
+th{
+	padding:5px;
+}
+.one{
+padding:5px 10px 5px 10px;
+}
